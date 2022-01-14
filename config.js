@@ -1,3 +1,4 @@
-export const googleAPIKey = 'AIzaSyCAjG56jcj433jlXQVcsddbmLZmw-Kxj68';
+// enter your API key here
+export const googleAPIKey = 'aaa';
 
 export default googleAPIKey;
