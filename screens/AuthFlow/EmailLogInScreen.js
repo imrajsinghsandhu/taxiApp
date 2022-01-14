@@ -28,7 +28,7 @@ const EmailLogInScreen = props => {
 
   // function is called when Log In button is pressed
   // in this function you will check for email and password validity
-  // You are also setting errors up, so that the errors display at the bottom of sign in
+  // You are also setting errors up, so that the errors display at the bottom of sign in.
   const doLogIn = async () => {
     if (!email) {
       // when input is empty
