@@ -32,7 +32,7 @@ const App = props => {
           title: 'myTaxi location Permission',
           message:
             'myTaxi needs access to your location ' +
-            'so you can take awesome rides on my cock.',
+            'so you can take awesome rides on my taxi.',
           buttonNegative: 'Cancel',
           buttonPositive: 'OK',
         },
