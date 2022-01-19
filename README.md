@@ -5,8 +5,9 @@ You can now easily compare the prices between the various ride hailing services 
 and be automatically redirected to the respective application of your choice! No need to 
 open multiple apps and try to compare them one by one.
 
-
-FrontPage
+<p>
+1. FrontPage -> where 
+</p>
 ![FrontPage](https://user-images.githubusercontent.com/92265647/150083627-9c6c89b8-985a-4304-b3ad-be7d2d67ed0b.jpg)
 
 SideMenu
