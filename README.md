@@ -9,6 +9,4 @@ open multiple apps and try to compare them one by one.
   Here's a quick video on how this app works!
 </p>
 
-<p>
 https://user-images.githubusercontent.com/92265647/150085511-e282c55a-6610-415e-a004-0ce0e3b48350.mp4
-</p>
