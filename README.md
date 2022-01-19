@@ -9,9 +9,13 @@ open multiple apps and try to compare them one by one.
   <h2>
     Here's a quick video on how this app works!
   </h2>
-      - We have the starting screen
+      <p>
+       - We have the starting screen
+      </p>
+      <p>
       - Then, we navigate to the screen where the user inputs their current location manually, 
         or the geolocation service will find the location of the user if Location access has been granted.
+      </p>
       - Following which, we go to the pickup/dropoff address page. The pre-saved locations in the drop
         down menu are all data from the "saved Places", which will be elaborated on later. 
       - Upon the filling of both pickup and dropoff locations, we automatically navigate to the 
