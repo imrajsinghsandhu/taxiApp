@@ -6,9 +6,9 @@ and be automatically redirected to the respective application of your choice! No
 open multiple apps and try to compare them one by one.
 
 <p>
-1. FrontPage -> where 
+1. FrontPage -> where users can navigate directly to the Location screen, and input their current location. 
+<!-- ![FrontPage](https://user-images.githubusercontent.com/92265647/150083627-9c6c89b8-985a-4304-b3ad-be7d2d67ed0b.jpg) -->
 </p>
-![FrontPage](https://user-images.githubusercontent.com/92265647/150083627-9c6c89b8-985a-4304-b3ad-be7d2d67ed0b.jpg)
 
 SideMenu
 ![SideMenu](https://user-images.githubusercontent.com/92265647/150083626-3952e278-9951-4fae-b861-1e3e3b05afe8.jpg)
